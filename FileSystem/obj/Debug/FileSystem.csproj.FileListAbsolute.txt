@@ -1,0 +1,7 @@
+c:\users\alex\documents\visual studio 2015\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+c:\users\alex\documents\visual studio 2015\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+c:\users\alex\documents\visual studio 2015\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+c:\users\alex\documents\visual studio 2015\Projects\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe.CodeAnalysisLog.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe.lastcodeanalysissucceeded

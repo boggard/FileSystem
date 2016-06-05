@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FileSystem.FileSystem">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="FileSystem.FileSystem.SharedMemory" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FileSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="FileSystem.FileSystem.SuperBlock" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FileSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="FileSystem.FileSystem.Inode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FileSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="FileSystem.FileSystem.Dir" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FileSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gQEgQAAgAIAgEAAACUAgBQCgAAAgAPAAEAIAAAdQgEI=</HashCode>
+      <FileName>FileSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileSystem.Process">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAEAwAAAAAAAAACAgA=</HashCode>
+      <FileName>Process.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileSystem.ProcInteraction">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACQAAAAIABAAAAIAAAAQAAAAIAAKAAAAIAI=</HashCode>
+      <FileName>ProcInteraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileSystem.Program">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAIAAAAAAAAAAIAAAAAAEABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileSystem.Semaphore">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAACAAAAAAQgAAAAA=</HashCode>
+      <FileName>Semaphore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
